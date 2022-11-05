@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Isa
+- I'm a Junior .Net Developer at adesso Turkey and Computer Engineering student at DEU.
+- 👀 I’m interested in .Net, Node.js and React technologies.
+- 📫 You can reach me from [LinkedIn](https://www.linkedin.com/in/isa-karahan-984572197/)
