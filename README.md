@@ -21,4 +21,4 @@
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/isa-karahan-984572197/"><img src="https://img.shields.io/badge/-Muhammed%20Ali%20Buyukbudak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/isa-karahan-984572197/"><img src="https://img.shields.io/badge/-Isa%20Karahan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
